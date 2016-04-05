@@ -6,7 +6,7 @@
 # James Lembke <lembkej@purdue.edu>
 # Nathan Burow <nburow@purdue.edu>
 #
-# Copyright (c) 2014
+# Copyright (c) sh
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without modification,
